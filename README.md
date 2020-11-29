@@ -1,1 +1,16 @@
-# miss-api.py
+## 🔑 Install 
+```shell
+$ pip install miss-api.py
+```
+
+## ❓ How to use?
+
+```py
+from index import MissAgent # //
+miss = MissAgent("User ...") # API Key. 
+
+print(miss.get("cat")) # return object with data
+```
+
+- 📚 Docs - **https://github.com/miss-api-xyz/docs**
+- 🔍 Site - **https://miss-api.xyz**
