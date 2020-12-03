@@ -1,6 +1,6 @@
 ## 🔑 Install 
 ```shell
-$ pip install miss-api.py
+$ pip install miss-api
 ```
 
 ## ❓ How to use?
