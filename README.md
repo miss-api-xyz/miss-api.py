@@ -7,7 +7,7 @@ $ pip install miss-api.py
 
 ```py
 from index import MissAgent # //
-miss = MissAgent("User ...") # API Key. 
+miss = MissAgent("User 1606585263234.xY4wbayvxQ8PFFdyXc") # API Key. 
 
 print(miss.get("cat")) # return object with data
 ```
