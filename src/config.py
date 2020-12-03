@@ -1,2 +1,2 @@
-url = "https://miss-api.xyz"
+url = "https://miss-api.ml"
 APIversion = "v2"
